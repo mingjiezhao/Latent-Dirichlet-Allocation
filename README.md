@@ -3,6 +3,7 @@ Latent Dirichlet Allocation (LDA) is a very important model in machine learning 
 automatically extract the hidden topics within a huge amount of documents and further represent
 the theme of each document as an ensemble of topics.
 
+Two methods are used to implement the LDA algorithm: Expectation-Maximization (EM) and Gibbs Sampling.
 ## Development Environment
 * Language: Python3
 ## Environment Setup
@@ -41,7 +42,7 @@ We applied our LDA models to the real dataset. The dataset is based on the 2204 
 * [Latent Dirichlet Allocation](http://www.cs.columbia.edu/~blei/papers/BleiNgJordan2003.pdf)
 
 ## Special thanks to:
-Ziwei Zhu, for her contributions on creating thr function to generate a test dataset.
+Ziwei Zhu, for her contributions on creating the function to generate a test dataset and other help while building the algorithm.
 
 
 
